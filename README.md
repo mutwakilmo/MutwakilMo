@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Mutwakil Mo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Mutwakil Mo.<br>
