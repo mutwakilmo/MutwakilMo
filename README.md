@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mutwakilmo/MutwakilMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">
+ <abc>
+  <br>👋 Hi, I'm Mutwakil Mo.<br>
+  <br> I’m an Android Developer living in Brussels, Belgium. I am a fan of technology, design, and entrepreneurship. I’m also interested in arts. <br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ </abc>
+</h3> 
+
+   
