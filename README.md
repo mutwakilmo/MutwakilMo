@@ -20,6 +20,8 @@ Here are some ideas to get you started:
  <abc>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+  <a href='https://play.google.com/store/apps/dev?id=8103420999836613602&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
  </abc>
 </h3> 
 
