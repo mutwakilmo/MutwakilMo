@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
   <a href='https://play.google.com/store/apps/dev?id=8103420999836613602&hl=en'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="30%" height="30%"/></a>
  </abc>
- <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mutwakil-mo"><a class="LI-simple-link" href='https://be.linkedin.com/in/mutwakil-mo?trk=profile-badge'>Mutwakil Mohamed Osman Hamid Mahmoud</a></div>
+ <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="mutwakil-mo"><a class="LI-simple-link" href='https://be.linkedin.com/in/mutwakil-mo?trk=profile-badge'>Mutwakil M-Osman Hamid Mahmoud</a></div>
 </h3> 
 
 
